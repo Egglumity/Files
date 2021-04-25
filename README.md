@@ -1,2 +1,2 @@
-# Files
+# Sprites for Punchy
 Sprites
